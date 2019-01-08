@@ -1,3 +1,7 @@
-Shot Lnk
+# Shot Lnk
+
 Description: This is a bitly-type application, based on React and Meteor. 
-Created by Dragos Vatamanu.
+
+## Authors
+
+Dragos Vatamanu.
